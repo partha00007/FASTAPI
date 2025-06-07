@@ -1,0 +1,26 @@
+# FastAPI CRUD API
+
+This project is a simple **FastAPI application** that demonstrates basic **CRUD (Create, Read, Update, Delete)** operations on an in-memory list of posts.
+
+---
+
+## 📦 Features
+
+✅ Create a new post  
+✅ Read all posts  
+✅ Update a post by ID  
+✅ Delete a post by ID  
+✅ Simple in-memory data storage
+
+---
+
+## 🛠️ Requirements
+
+- **Python 3.9+**  
+- **FastAPI**  
+- **uvicorn** (for serving the app)
+
+Install dependencies:
+
+```bash
+pip install fastapi uvicorn
